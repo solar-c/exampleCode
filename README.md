@@ -1,7 +1,7 @@
 # exampleCode
 
 1) Heart Disease UCI dataset
-Data Analysis & Exploration, Data Cleaning, Feature Engineering, Multiple Classificiation Comparison, Hyperparameter Optimization
+Data Analysis & Exploration, Data Cleaning, Feature Engineering, Multiple Classificiation Comparison, Hyperparameter Optimization.
 Random Forest, KNN, Multi Layer Perceptron
 
 2) MNIST keras DNN 
