@@ -1,7 +1,6 @@
-# exampleCode
+# easy snippets / some course exercises
 
-1) Heart Disease UCI dataset
-Data Analysis & Exploration, Data Cleaning, Feature Engineering, Multiple Classificiation Comparison, Hyperparameter Optimization.
+1) Heart Disease UCI dataset - Data Exploration
 
 Random Forest, KNN, Multi Layer Perceptron
 
